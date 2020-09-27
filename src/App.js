@@ -3,7 +3,7 @@ import './tailwind.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App dark:bg-black dark:text-white">
       <header className="App-header text-center">
         <p>
           Edit <code>src/App.js</code> and save to reload.
