@@ -1,9 +1,10 @@
 import React from 'react';
+import './tailwind.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <header className="App-header text-center">
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
